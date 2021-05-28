@@ -13,11 +13,22 @@ The implemented Sauvola method uses integral images for fast computation of the 
 
 ## Clean Image adding Noise(image)
 
-Screen Shot
+images 
 -----------------------
-<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_1.jpg">
-<p align="center"><b>Clean Image</b></p>
-<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/nos_1.JPG">
-<p align="center"><b>Noise</b></p>
-<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/out_1.png">
-<p align="center"><b>Clean image adding Noise(image)</b></p>
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_1.jpg" width="300" height="400" >
+<p><b>Clean Image</b></p>
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/nos_1.JPG" width="300" height="400">
+<p><b>Noise</b></p>
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/out_1.png" width="300" height="400">
+<p><b>Clean image adding Noise(image)</b></p>
+
+## Image_Crop_and_Reconstructed
+
+images 
+-----------------------
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_2.png" width="300" height="400" >
+<p><b>full Image</b></p>
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/mid_2.png" width="300" height="400">
+<p><b>part(crop) image</b></p>
+<img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_2.png" width="300" height="400">
+<p><b>Reconstructed image</b></p>
