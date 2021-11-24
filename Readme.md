@@ -32,3 +32,11 @@ images
 <p><b>part(crop) image</b></p>
 <img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_2.png" width="300" height="400">
 <p><b>Reconstructed image</b></p>
+
+
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
